@@ -1,0 +1,2 @@
+lib:
+sdl3_win64
