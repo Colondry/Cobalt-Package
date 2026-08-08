@@ -1,0 +1,1 @@
+-I"./lib/Python314/Include" -I"./lib/Python314/include/numpy/_core/include" -L"./lib/Python314/libs" -lpython314
